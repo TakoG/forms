@@ -1,0 +1,225 @@
+@media (max-width: 1508px) {
+
+    body {
+        overflow-x: hidden !important;
+    }
+
+
+
+@media (max-width: 1166px) {
+}
+
+
+
+@media (max-width: 887px) {
+
+    body {
+        overflow-x: hidden !important;
+    }
+    .burger-wraper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        right: auto;
+    }
+    .title-1 {
+        font-size: 20px;
+        display: flex;
+    }
+
+    .header {
+        display: flex;
+        justify-content: space-evenly;
+        max-width: 1508px;
+        width: 100%;
+    }
+
+    .navigation {
+        display: none;
+    }
+
+    .right-menu{
+        display: none;
+    }
+}
+
+
+@media (max-width: 623px) {
+
+}
+
+
+
+
+
+
+@media (max-width: 375px) {
+    body {
+        overflow-x: hidden !important;
+    }
+    .burger-wraper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        right: auto;
+    }
+    .title-1 {
+        font-size: 20px;
+        display: flex;
+    }
+
+    .header {
+        display: flex;
+        justify-content: space-between;
+        max-width: 410px;
+        width: 90%;
+    }
+    .header-wraper {
+        height: 100px;
+    }
+    .navigation {
+        display: none;
+    }
+
+    .right-menu{
+        display: none;
+    }
+    
+    .image-wraper {
+        height: 500px;
+    }
+    .image-banner {
+        height: 500px;
+        background-size: contain;
+    }
+    .h1-title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .description {
+        display: none;
+    }
+    .services {
+        display: block;
+        margin-top: 30px;
+    }
+    .services-2 {
+        display: block;
+        margin-top: 10px;
+    }
+    .text-block {
+        max-width: 410px;
+        width: 50%;
+        margin-left: 30px;
+        top: 45%;
+    }
+    .header-2 {
+        text-align: center;
+        max-width: 410px;
+        height: 20px;
+    }
+    .title-2 {
+        font-size: 30px;
+    }
+    .navigation-2{
+        max-width: 375px;
+        align-content: center;
+        display: block;
+        font-size: 16px;
+        display: none;
+    }
+
+    .works {
+        display: none;
+    }
+    .first {
+        width: 340px;
+        height: 300px;
+    }
+    .row-2 {
+        display: flex;
+        flex-direction: column;
+        max-width: 410px;
+        width: 90%;
+    }
+    .name {
+        display: none;
+    }
+    .post {
+        display: none;
+    }
+    .projects {
+        height: 550px;
+    }
+    .leading-way {
+        font-size: 35px;
+    }
+    .client-description {
+        font-size: 15px;
+    }
+    .forms-wraper {
+        max-width: 375px;
+        width: 100%;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .forms {
+        height: 980px;
+    }
+    .contact {
+        height: 700px;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    input[type=tel]{
+        margin-top: 20px;
+    }
+    .area {
+        margin-top: 20px;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: column;
+        max-width: 375px;
+        width: 100%;
+        margin-left: 0px;
+        padding-left: 20px;
+    }
+
+    .footer-column {
+        display: flex;
+        flex-direction: column;
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+    .column-1 {
+        max-width: 375px;
+        width: 90%;
+    }
+    .subscribe {
+        display: none;
+    }
+    .logo {
+        max-width: 375px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .email-block{
+        display: none;
+    }
+    subscribe-text {
+        display: none;
+    }
+}
+
+
+
+
+
+
+    
